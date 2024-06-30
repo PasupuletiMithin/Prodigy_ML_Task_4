@@ -1,4 +1,5 @@
 # Prodigy_ML_Task_4
+Linkedin : https://www.linkedin.com/posts/mithin-pasupuleti-575961263_machinelearning-gesturerecognition-prodigyinternship-activity-7213160445300367360-xEMv?utm_source=share&utm_medium=member_desktop
 🖐️ Hand Gesture Recognition Model: Overview
 
 📊 Data Preparation
